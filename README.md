@@ -1,12 +1,22 @@
-# Getting Started with Create React App
+# The Metropolitan Museum of Art Random item generator
+
+This react based project pulls a random inventory from the MET API and displays it for the user to peruse.  Each item is there for new discovery and is linked back to the item on the MET's website so that the user can find other related items if the topic peaks their interest.  There is also a choose another item button to select another item at random for further discovery.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+# RoadMap
+Get the app running with state
+Add a button that allows the user to select the number of items they can see at a time
+
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+### How to Run
+
+`npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
